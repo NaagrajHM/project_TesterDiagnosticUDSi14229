@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.10)
 
-project(TesterDiagnosticUDSi14229_LATEST)
+project(TesterDiagnosticUDSi14229_v0.0.2)
 
 add_executable(b_${PROJECT_NAME}
 	source/Application/Application.cpp
