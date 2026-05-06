@@ -1,6 +1,11 @@
 # project_TesterDiagnosticUDSi14229
 ISO 14229 UDS Diagnostic Tester project
 
+# 2026.05.05:
+      #2 2026.05.05: branch_main_v0.0.5 - FEATURE - Implement log time-stamp.
+   ,  #3 2026.05.05: branch_main_v0.0.5 - BUGFIX - Terminate client upon shutdown confirmation reception from server.
+   ,  #4 2026.05.05: branch_main_v0.0.5 - BUGFIX - default mode in client changed to application.
+
 # 2026.04.30: branch_main_v0.0.4
 Feature:
       #1 Inherit interim architecture from server.
